@@ -1,0 +1,27 @@
+{
+  "name": "villainbot",
+  "version": "1.0.0",
+  "description": "Bot for Villains",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villainishere/VillainBot.git"
+  },
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "author": "Gu Changge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villainishere/VillainBot/issues"
+  },
+  "homepage": "https://github.com/villainishere/VillainBot#readme",
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
