@@ -7,7 +7,7 @@ Full Guide :
 https://wwebjs.dev/guide/
 
 Video Tutorial :
-https://www.youtube.com/watch?v=Cml20VkyB_A
-https://www.youtube.com/watch?v=uQuY3oTyd-I
-https://www.youtube.com/watch?v=s4RucoRFu4Q
-https://www.youtube.com/watch?v=UDRzyZlfqHo
+- https://www.youtube.com/watch?v=Cml20VkyB_A
+- https://www.youtube.com/watch?v=uQuY3oTyd-I
+- https://www.youtube.com/watch?v=s4RucoRFu4Q
+- https://www.youtube.com/watch?v=UDRzyZlfqHo
